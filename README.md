@@ -1,3 +1,3 @@
 # c++ practice
-|Just a space to practice c++| 
-nothing to see here
+`Just a space to practice c++` \
+>nothing to see here
